@@ -24,7 +24,7 @@ requires:
   File::ShareDir: 1.03
   perl: 5.8.3
 resources:
-  homepage: git://github.com/ingydotnet/file-share-pm/tree
+  homepage: https://github.com/ingydotnet/file-share-pm
   license: http://dev.perl.org/licenses/
-  repository: git://github.com/ingydotnet/file-share-pm.git
+  repository: git://github.com/ingydotnet/file-share-pm
 version: 0.03
