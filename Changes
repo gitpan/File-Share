@@ -1,17 +1,15 @@
----
-version: 0.03
-date:    Sat Sep 14 14:37:47 PDT 2013
-changes:
-- Add Dist::Zilla support
-- Add Module::Build support
----
-version: 0.02
-date:    Wed Sep 14 14:42:15 CEST 2011
-changes:
-- Fix a documentation mistake
-- Released from Liz++ and Wendy++' master bedroom
----
-version: 0.01
-date:    Thu Jun 16 08:13:01 EST 2011
-changes:
-- First Release
+0.10 Fri May 23 18:37:50 PDT 2014
+ - Look for lib instead of Makefile.PL etc
+ - Change to Zilla::Dist
+
+0.03 Sat Sep 14 14:37:47 PDT 2013
+ - Add Dist::Zilla support
+ - Add Module::Build support
+
+0.02 Wed Sep 14 14:42:15 CEST 2011
+ - Fix a documentation mistake
+ - Released from Liz++ and Wendy++' master bedroom
+
+0.01 Thu Jun 16 08:13:01 EST 2011
+ - First Release
+
