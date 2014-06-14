@@ -12,6 +12,11 @@ meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: '1.4'
 name: File-Share
+no_index:
+  directory:
+    - inc
+    - t
+    - xt
 requires:
   File::ShareDir: '1.03'
   perl: v5.8.1
@@ -19,4 +24,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/file-share-pm/issues
   homepage: https://github.com/ingydotnet/file-share-pm
   repository: https://github.com/ingydotnet/file-share-pm.git
-version: '0.10'
+version: '0.11'
