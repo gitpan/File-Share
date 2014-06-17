@@ -17,6 +17,7 @@ no_index:
     - inc
     - t
     - xt
+    - example
 requires:
   File::ShareDir: '1.03'
   perl: v5.8.1
@@ -24,4 +25,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/file-share-pm/issues
   homepage: https://github.com/ingydotnet/file-share-pm
   repository: https://github.com/ingydotnet/file-share-pm.git
-version: '0.12'
+version: '0.13'

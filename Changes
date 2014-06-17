@@ -1,3 +1,7 @@
+0.13 Tue Jun 17 10:55:13 PDT 2014
+ - Remove ABSTRACT
+ - Manual VERSION
+
 0.12 Sat Jun 14 12:13:53 PDT 2014
  - New badge syntax in doc
 
