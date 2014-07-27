@@ -27,3 +27,4 @@ xt/freebsd/usr/local/lib/perl5/site_perl/5.16/auto/share/dist/Foo-Bar/sample.txt
 xt/freebsd/usr/local/share/wrong_path.txt
 xt/mb.t
 xt/test.t
+xt/within-dist.t
