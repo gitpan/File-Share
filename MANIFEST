@@ -9,6 +9,7 @@ Makefile.PL
 README
 lib/File/Share.pm
 lib/File/Share.pod
+t/000-compile-modules.t
 t/release-pod-syntax.t
 t/use_ok.t
 xt/Bar-Baz/dist.ini
