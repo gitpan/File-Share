@@ -25,4 +25,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/file-share-pm/issues
   homepage: https://github.com/ingydotnet/file-share-pm
   repository: https://github.com/ingydotnet/file-share-pm.git
-version: '0.19'
+version: '0.20'
