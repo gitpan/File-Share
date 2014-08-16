@@ -1,3 +1,6 @@
+0.24 Sat Aug 16 16:00:30 PDT 2014
+ - Fix strict/warnings
+
 0.23 Sat Aug 16 15:47:38 PDT 2014
  - Remove versions from module use
 
