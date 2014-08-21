@@ -1,3 +1,6 @@
+0.25 Thu Aug 21 11:59:42 PDT 2014
+ - Doc fix via PR/10. @wollmers++
+
 0.24 Sat Aug 16 16:00:30 PDT 2014
  - Fix strict/warnings
 
